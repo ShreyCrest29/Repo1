@@ -5,3 +5,6 @@ GIT
 Ansible
 jenkins
 puppet
+
+Splunk
+Terraform
