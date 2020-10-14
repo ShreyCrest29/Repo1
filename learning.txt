@@ -1,0 +1,5 @@
+I started learning various technologies namely,
+AWS
+linux
+GIT
+Ansible
