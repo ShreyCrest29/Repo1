@@ -3,3 +3,5 @@ AWS
 linux
 GIT
 Ansible
+jenkins
+puppet
