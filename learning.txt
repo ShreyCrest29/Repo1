@@ -6,5 +6,10 @@ Ansible
 jenkins
 puppet
 
+
+Splunk
+Terraform
+
 bye. :)
 final version
+
