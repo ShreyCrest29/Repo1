@@ -13,3 +13,4 @@ Terraform
 bye. :)
 final version
 
+Splunk is the most important part of our training.
